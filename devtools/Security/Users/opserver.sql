@@ -1,0 +1,2 @@
+CREATE USER [opserver] WITHOUT LOGIN
+GO
